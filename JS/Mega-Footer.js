@@ -151,7 +151,7 @@ let megaContactUs =
   <div class="col-md-6 col-xl-3 mt-3 mt-lg-0 d-none d-md-flex justify-content-start justify-content-xl-center">
 
     <button class="bg-transparent text-white border-0 p-0"
-      onclick="openFooterLink('eng-m-ma9dy.github.io/MAGDY/')"><img src="src/Images/Logo-MM.jpg"
+      onclick="openFooterLink('eng-m-ma9dy.github.io/MAGDY/')"><img src="https://eng-m-ma9dy.github.io/Static-Files/IMG/Profile-Logo-MM-White.jpg"
         class="footer_logo rounded-circle" alt=""></button>
 
   </div>
