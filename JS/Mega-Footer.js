@@ -162,13 +162,10 @@ let megaContactUs =
 
 `
 
+
+
 document.getElementById('megaContactUs').innerHTML = megaContactUs
 
-function openFooterLink(url){
-
-  return   window.open(`https://${url}`,"_blank")
-  
-}
 
 
 
@@ -177,3 +174,4 @@ function openFooterLink(url){
   return   window.open(`https://${url}`,"_blank")
   
 }
+
