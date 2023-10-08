@@ -4,8 +4,8 @@ let megaContactUs =
 <style>
 
 .footer_logo{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     transition: all 0.5s;
     border: solid black 1px;
 }
@@ -151,11 +151,13 @@ let megaContactUs =
   <div class="col-md-6 col-xl-3 mt-3 mt-lg-0">
 
     <h4 class="mb-4 pb-4 border-bottom">Website :</h4>
-<div class="d-flex justify-content-center">    
-<button class="bg-transparent text-white border-0 p-0"
-      onclick="openFooterLink('eng-m-ma9dy.github.io/MAGDY/')"><img src="https://eng-m-ma9dy.github.io/Static-Files/IMG/Profile-Logo-MM-White.jpg"
-        class="footer_logo rounded-circle" alt=""></button>
-</div>  
+    
+    <div class="d-flex justify-content-start">    
+        <button class="bg-transparent text-white border-0 p-0"
+              onclick="openFooterLink('eng-m-ma9dy.github.io/MAGDY/')"><img src="https://eng-m-ma9dy.github.io/Static-Files/IMG/Profile-Logo-MM-White.jpg"
+                class="footer_logo rounded-circle" alt=""></button>
+    </div> 
+    
   </div>
 
 </div>
