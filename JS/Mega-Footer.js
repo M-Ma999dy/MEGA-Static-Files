@@ -119,7 +119,7 @@ let megaContactUs =
     </h6>
 
     <button class="bg-transparent text-white border-0 p-0" onclick="openFooterLink('wa.me/+201224666690')">
-      <h6 class="mb-0">WA : +20 12 858 80 4 88</h6>
+      <h6 class="mb-0">WA : +20 122 4 66 66 90</h6>
     </button>
 
     <div class="text-light d-flex justify-content-start my-3">
