@@ -4,8 +4,8 @@ let megaContactUs =
 <style>
 
 .footer_logo{
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 130px;
     transition: all 0.5s;
     border: solid black 1px;
 }
