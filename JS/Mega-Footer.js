@@ -7,7 +7,7 @@ let megaContactUs =
     width: 130px;
     height: 130px;
     transition: all 0.5s;
-    border: solid white 1px;
+    border: solid white 3px;
 }
 
 .footer_logo:hover{
