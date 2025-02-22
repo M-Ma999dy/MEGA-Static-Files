@@ -152,13 +152,13 @@ let megaContactUs =
     <h4 class="mb-4 pb-4 border-bottom">Website :</h4>
     
     <div class="d-flex justify-content-start">
-            <div class="d-flex justify-content-center mx-1">    
+            <div class="d-flex justify-content-center me-2">    
                 <button class="bg-transparent text-white border-0 p-0"
                       onclick="openFooterLink('eng-m-ma9dy.github.io/MAGDY/')"><img src="https://eng-m-ma9dy.github.io/Static-Files/IMG/Profile-Logo-MM-White.jpg"
                         class="footer_logo rounded-circle" alt=""></button>
             </div>
 
-            <div class="d-flex justify-content-center mx-1">    
+            <div class="d-flex justify-content-center ms-2">    
                 <button class="bg-transparent text-white border-0 p-0 border-white"
                       onclick="openFooterLink('eng-m-ma9dy.github.io/MAGDY/')"><img src="https://eng-m-ma9dy.github.io/Static-Files/IMG/Profile-Logo-IU-Black.jpg"
                         class="footer_logo rounded-circle" alt=""></button>
