@@ -115,12 +115,11 @@ let megaContactUs =
 
     <h4 class="mb-4 pb-4 border-bottom">Pages :</h4>
 
-    <h6><a href="mailto:Info.Unit.Alex@gmail.com" class="a_None text-white">Info.Unit.Alex@gmail.com</a>
+    <h6><a href="mailto:Info.Unit.Alex@gmail.com" class="a_None text-white">Email:
+        Info.Unit.Alex@gmail.com</a>
     </h6>
 
-    <button class="bg-transparent text-white border-0 p-0" onclick="openFooterLink('wa.me/+201285880488')">
-      <h6 class="mb-0">WA : +20 12 858 80 4 88</h6>
-    </button>
+    <h6 class="text-white"> For more information </h6>
 
     <div class="text-light d-flex justify-content-start my-3">
 
@@ -129,16 +128,16 @@ let megaContactUs =
         <i class="fa-brands fa-facebook"></i>
       </button>
 
-      <button onclick="openFooterLink('www.tiktok.com/@info.unit.iu')"
-        class="SM-BTN-icon TikTok    mx-2 fs-3 bg-light d-flex align-items-center justify-content-center">
-        <i class="fa-brands fa-tiktok"></i>
-      </button>
-
       <button onclick="openFooterLink('www.instagram.com/info.unit.iu')"
         class="SM-BTN-icon Instagram mx-2 fs-3 bg-light d-flex align-items-center justify-content-center">
         <i class="fa-brands fa-instagram"></i>
       </button>
 
+      <button onclick="openFooterLink('www.tiktok.com/@info.unit.iu')"
+        class="SM-BTN-icon TikTok    mx-2 fs-3 bg-light d-flex align-items-center justify-content-center">
+        <i class="fa-brands fa-tiktok"></i>
+      </button>
+      
       <button onclick="openFooterLink('youtube.com/@Info.Unit-IU')"
         class="SM-BTN-icon Youtube   ms-2 fs-3 bg-light d-flex align-items-center justify-content-center">
         <i class="fa-brands fa-youtube"></i>
