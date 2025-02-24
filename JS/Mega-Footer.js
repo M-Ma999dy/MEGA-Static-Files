@@ -154,13 +154,13 @@ let megaContactUs =
     <div class="d-flex justify-content-start">
             <div class="d-flex justify-content-center me-2">    
                 <button class="bg-transparent text-white border-0 p-0"
-                      onclick="openFooterLink('eng-m-ma999dy.github.io/MAGDY/')"><img src="https://eng-m-ma999dy.github.io/Static-Files/IMG/Profile-Logo-MM-Black.jpg"
+                      onclick="openFooterLink('eng-m-magdy.netlify.app')"><img src="https://eng-m-ma999dy.github.io/Static-Files/IMG/Profile-Logo-MM-Black.jpg"
                         class="footer_logo rounded-circle" alt=""></button>
             </div>
 
             <div class="d-flex justify-content-center ms-2">    
                 <button class="bg-transparent text-white border-0 p-0"
-                      onclick="openFooterLink('eng-m-ma999dy.github.io/MAGDY/')"><img src="https://eng-m-ma999dy.github.io/Static-Files/IMG/Profile-Logo-IU-Black.jpg"
+                      onclick="openFooterLink('eng-m-magdy.netlify.app')"><img src="https://eng-m-ma999dy.github.io/Static-Files/IMG/Profile-Logo-IU-Black.jpg"
                         class="footer_logo rounded-circle" alt=""></button>
             </div> 
     
