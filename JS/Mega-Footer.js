@@ -87,22 +87,22 @@ let megaContactUs =
 
     <div class="d-flex justify-content-start my-3">
 
-      <button onclick="openFooterLink('github.com/Eng-M-ma999dy')"
+      <button onclick="openFooterLink('github.com/m-ma999dy')"
         class="SM-BTN-icon GitHub    me-2 fs-3 bg-light d-flex align-items-center justify-content-center">
         <i class="fa-brands fa-github"></i>
       </button>
 
-      <button onclick="openFooterLink('www.linkedin.com/in/eng-m-ma999dy/')"
+      <button onclick="openFooterLink('www.linkedin.com/in/m-ma999dy/')"
         class="SM-BTN-icon LinkedIn  mx-2 fs-3 bg-light d-flex align-items-center justify-content-center">
         <i class="fa-brands fa-linkedin"></i>
       </button>
 
-      <button onclick="openFooterLink('www.facebook.com/eng.m.ma999dy/')"
+      <button onclick="openFooterLink('www.facebook.com/m.ma999dy/')"
         class="SM-BTN-icon Facebook  mx-2 fs-3 bg-light d-flex align-items-center justify-content-center">
         <i class="fa-brands fa-facebook"></i>
       </button>
 
-      <button onclick="openFooterLink('www.instagram.com/eng.m.ma999dy/')"
+      <button onclick="openFooterLink('www.instagram.com/m.ma999dy/')"
         class="SM-BTN-icon Instagram ms-2 fs-3 bg-light d-flex align-items-center justify-content-center">
         <i class="fa-brands fa-instagram"></i>
       </button>
@@ -154,13 +154,13 @@ let megaContactUs =
     <div class="d-flex justify-content-start">
             <div class="d-flex justify-content-center me-2">    
                 <button class="bg-transparent text-white border-0 p-0"
-                      onclick="openFooterLink('eng-m-magdy.netlify.app')"><img src="https://eng-m-ma999dy.github.io/Static-Files/IMG/Profile-Logo-MM-Black.jpg"
+                      onclick="openFooterLink('eng-m-magdy.netlify.app')"><img src="https://m-ma999dy.github.io/Static-Files/IMG/Profile-Logo-MM-Black.jpg"
                         class="footer_logo rounded-circle" alt=""></button>
             </div>
 
             <div class="d-flex justify-content-center ms-2">    
                 <button class="bg-transparent text-white border-0 p-0"
-                      onclick="openFooterLink('eng-m-magdy.netlify.app')"><img src="https://eng-m-ma999dy.github.io/Static-Files/IMG/Profile-Logo-IU-Black.jpg"
+                      onclick="openFooterLink('eng-m-magdy.netlify.app')"><img src="https://m-ma999dy.github.io/Static-Files/IMG/Profile-Logo-IU-Black.jpg"
                         class="footer_logo rounded-circle" alt=""></button>
             </div> 
     
@@ -187,4 +187,5 @@ function openFooterLink(url){
   return   window.open(`https://${url}`,"_blank")
   
 }
+
 
