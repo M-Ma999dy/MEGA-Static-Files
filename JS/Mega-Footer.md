@@ -9,8 +9,8 @@
 - Link : Bootstrap
 - Link : Fontawesome
 - Create Div By ID # megaContactUs
-- Link : <script src=" https://m-ma999dy.github.io/Static-Files/JS/Mega-Footer.js "></script>
+- Link : <script src=" https://m-ma999dy.github.io/MEGA-Static-Files/JS/Mega-Footer.js "></script>
 #
 # Website Link :
 ------------------------
-- https://m-ma999dy.github.io/Static-Files/JS/Mega-Footer.js
+- https://m-ma999dy.github.io/MEGA-Static-Files/JS/Mega-Footer.js
