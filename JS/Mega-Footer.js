@@ -87,14 +87,14 @@ let megaContactUs =
 
     <div class="d-flex justify-content-start my-3">
 
-      <button onclick="openFooterLink('github.com/m-ma999dy')"
-        class="SM-BTN-icon GitHub    me-2 fs-3 bg-light d-flex align-items-center justify-content-center">
-        <i class="fa-brands fa-github"></i>
-      </button>
-
       <button onclick="openFooterLink('www.linkedin.com/in/m-ma999dy/')"
         class="SM-BTN-icon LinkedIn  mx-2 fs-3 bg-light d-flex align-items-center justify-content-center">
         <i class="fa-brands fa-linkedin"></i>
+      </button>
+      
+      <button onclick="openFooterLink('github.com/m-ma999dy')"
+        class="SM-BTN-icon GitHub    me-2 fs-3 bg-light d-flex align-items-center justify-content-center">
+        <i class="fa-brands fa-github"></i>
       </button>
 
       <button onclick="openFooterLink('www.facebook.com/m.ma999dy/')"
@@ -187,5 +187,6 @@ function openFooterLink(url){
   return   window.open(`https://${url}`,"_blank")
   
 }
+
 
 
